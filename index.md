@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Flexible Thinking
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Flexible Thinking delivers flat packed and custom home builds to your door.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# New ways of building houses.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Custom flat-packed home builds effortlessly designed by you.
